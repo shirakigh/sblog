@@ -2,30 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>http://8hagi.sakura.ne.jp/categories/index.html</loc>
     
-    <lastmod>2016-10-09T11:08:26.501Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
-    
-    <lastmod>2016-10-09T10:12:50.962Z</lastmod>
+    <lastmod>2016-10-09T17:28:52.824Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
+    <loc>http://8hagi.sakura.ne.jp/tags/index.html</loc>
     
-    <lastmod>2016-10-09T10:12:32.993Z</lastmod>
+    <lastmod>2016-10-09T17:28:35.480Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/sblog/2016/10/07/hello-world/</loc>
+    <loc>http://8hagi.sakura.ne.jp/about/index.html</loc>
     
-    <lastmod>2016-10-09T09:44:26.668Z</lastmod>
+    <lastmod>2016-10-09T17:28:10.647Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://8hagi.sakura.ne.jp/sblog/2016/09/26/hello-world/</loc>
+    
+    <lastmod>2016-10-09T17:27:53.901Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://8hagi.sakura.ne.jp/sblog/2016/10/09/inventory/</loc>
+    
+    <lastmod>2016-10-09T12:43:23.884Z</lastmod>
     
   </url>
   
