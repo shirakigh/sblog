@@ -5,7 +5,7 @@
   <link href="/sblog/atom.xml" rel="self"/>
   
   <link href="http://8hagi.sakura.ne.jp/"/>
-  <updated>2016-10-10T06:53:16.950Z</updated>
+  <updated>2016-10-10T13:36:58.123Z</updated>
   <id>http://8hagi.sakura.ne.jp/</id>
   
   <author>
@@ -16,13 +16,51 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>ブログをHEXOに移行しました</title>
+    <link href="http://8hagi.sakura.ne.jp/2016/10/10/hello-hexo/"/>
+    <id>http://8hagi.sakura.ne.jp/2016/10/10/hello-hexo/</id>
+    <published>2016-10-10T07:08:29.000Z</published>
+    <updated>2016-10-10T13:36:58.123Z</updated>
+    
+    <content type="html"><![CDATA[<p>このブログはもともとWordPressで構築していたんですが、</p>
+<ul>
+<li>コンテンツをGitHubで管理したい</li>
+<li>画像とかも一括でローカルからPUSH&amp;デプロイしたい</li>
+<li>記事はAtomで書いてるのでデプロイまでAtomで完結したい</li>
+</ul>
+<p>という要件があって、結局ブログジェネレータのHEXOに移行しました。</p>
+<blockquote>
+<p>HEXO<br><a href="https://hexo.io/" target="_blank" rel="external">https://hexo.io/</a></p>
+</blockquote>
+<p>ジェネレータの類は初めて使うんですが、記事の作成～GitHubまでのPUSHが本当にAtom一つで済むのでかなり快適です。<br>DBも使わないから公開後の動作もさくさく早いし、管理も楽だし。<br>あとはデプロイまで自動化したら最高ですね。そのうちやりたい。</p>
+<p>環境は調ったので、これで今後もガンガン可愛いを叫んでいくぞー！！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;このブログはもともとWordPressで構築していたんですが、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;コンテンツをGitHubで管理したい&lt;/li&gt;
+&lt;li&gt;画像とかも一括でローカルからPUSH&amp;amp;デプロイしたい&lt;/li&gt;
+&lt;li&gt;記事はAtomで書いてるのでデプロイまでAtom
+    
+    </summary>
+    
+      <category term="IT" scheme="http://8hagi.sakura.ne.jp/categories/IT/"/>
+    
+    
+      <category term="HEXO" scheme="http://8hagi.sakura.ne.jp/tags/HEXO/"/>
+    
+  </entry>
+  
+  <entry>
     <title>内容はさっぱりだけど</title>
     <link href="http://8hagi.sakura.ne.jp/2016/10/06/chemical2/"/>
     <id>http://8hagi.sakura.ne.jp/2016/10/06/chemical2/</id>
     <published>2016-10-06T06:45:59.000Z</published>
-    <updated>2016-10-10T06:53:16.950Z</updated>
+    <updated>2016-10-10T07:45:27.147Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="img/nhk.JPG" alt="ありがとうNHK"></p>
+    <content type="html"><![CDATA[<p><img src="/sblog/img/nhk.JPG" alt="ありがとうNHK"></p>
 <p>先週からNHK高校講座の「化学基礎」を正座して観ているわけですが。<br>全体20分のうち藤田さんが解説してくれるのは実質2分くらいなんですけど、それでも至福の時間…<br>内容なんてわからないようなんで割りとぼーっと観てるんですけど、解説が始まった途端正座して母の寝物語を聴く子供のような純粋な気持ちで耳を傾けています( ◜◡◝ )<br>まあやっぱり内容なんて()なんですけど、「覚えておいてね！」とか言われちゃうと「ﾊｲｯ!!!!!!」っていいお返事したくなるよね。</p>
 <p>せざるを得ないよね。</p>
 <h3 id="さすがNHK"><a href="#さすがNHK" class="headerlink" title="さすがNHK"></a>さすがNHK</h3><p>さっきNHKのサイト見たら今までの分も全部観られることに気がついた！！！！やったー！！！！！！！</p>
@@ -35,8 +73,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;img/nhk.JPG&quot; alt=&quot;ありがとうNHK&quot;&gt;&lt;/p&gt;
-&lt;p&gt;先週からNHK高校講座の「化学基礎」を正座して観ているわけですが。&lt;br&gt;全体20分のうち藤田さんが解説してくれるのは実質2分くらいなんですけど、それでも至福の時間…&lt;br&gt;内容なん
+      &lt;p&gt;&lt;img src=&quot;/sblog/img/nhk.JPG&quot; alt=&quot;ありがとうNHK&quot;&gt;&lt;/p&gt;
+&lt;p&gt;先週からNHK高校講座の「化学基礎」を正座して観ているわけですが。&lt;br&gt;全体20分のうち藤田さんが解説してくれるのは実質2分くらいなんですけど、それでも至福の時間…&lt;
     
     </summary>
     
@@ -52,13 +90,13 @@
     <link href="http://8hagi.sakura.ne.jp/2016/10/03/chemical/"/>
     <id>http://8hagi.sakura.ne.jp/2016/10/03/chemical/</id>
     <published>2016-10-03T05:36:30.000Z</published>
-    <updated>2016-10-10T06:44:43.549Z</updated>
+    <updated>2016-10-10T08:44:56.468Z</updated>
     
     <content type="html"><![CDATA[<h3 id="NHK高校化学"><a href="#NHK高校化学" class="headerlink" title="NHK高校化学"></a>NHK高校化学</h3><p>こないだ年表書くためにWikipedia見ていたら、NHKの高校化学のナレーションが藤田さんだと知ってしまったので早速録画して視聴しました。<br>言ってることはさっぱりな上に藤田さんの台詞実質2分位だったけど、それでも耳が至福でした。<br>昔「萌え単」とかあったけど、やっぱり好きな声ってだけで聴く気になるもんな…ちょろいわ。<br>まあ内容が頭に入るかと言えばさっぱりなんですけど、好きボイスで「覚えておいてね！」って言われたら「覚えるぅ！」ってなるよね。無理だけど。</p>
 <p>それにしても高校化学ってもともと苦手でほとんど内容覚えていないけど、あんな難しいこと勉強してたかな…全く覚えてないや。</p>
 <h3 id="ゆるゆりイベントBlu-ray"><a href="#ゆるゆりイベントBlu-ray" class="headerlink" title="ゆるゆりイベントBlu-ray"></a>ゆるゆりイベントBlu-ray</h3><p>調子に乗って全部買ったよーーーーーーーーーーーーー！！！！！！！！！！</p>
 <p>しかもブックレットが欲しくて全部初回盤だよーーーーーーーーーーーーーーー！！！！！！！！！！！！！</p>
-<p><img src="img/disc.JPG" alt="後悔はしていない。"></p>
+<p><img src="/sblog/img/disc.JPG" alt="後悔はしていない。"></p>
 <p>そもそもゆるゆり観始めたのが藤田さんのブログでイベント映像が出ることを知ったのがきっかけでして。<br>アニメ面白かったし綾乃ちゃん可愛かったし、何より作中で綾乃ちゃんが着てた羊パジャマ着て登場とかレポ観ちゃったんでこれは買わねばと思ってとりあえず最新の「はっぴ～ぱ～てぃ」だけ買ったんですけど。<br>ちなみにまだ観てないんですけど。</p>
 <p>まずジャケットの可愛さにひれ伏して、さらにブックレットの写真がどれも可愛すぎて「これ動画で観たら可愛すぎて耐えられないのでは？？？？？」と思って未だに視聴できずにブックレットだけ眺めては可愛さを堪能する日々。<br>早く観たい…(観たい</p>
 <p>で、本編まだ観てないのに他イベントの映像も欲しくなって、さらに全部初回盤にはブックレットがついてると知って全部初回盤で衝動買しました。<br>そして全部ブックレットだけ見てまだ本編観てません。</p>
