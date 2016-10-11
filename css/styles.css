@@ -489,7 +489,7 @@
 /* Globals */
 
 body {
-  font-family: Arial, 'Shin Go Regular', 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+  font-family: Arial, 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
   color: #555;
 }
 
@@ -501,7 +501,7 @@ h5, .h5,
 h6, .h6 {
   margin-top: 1em;
   margin-bottom: 15px;
-  font-family: Arial, 'Shin Go Regular', 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+  font-family: Arial, 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
   font-weight: bold;
   color: #333;
 }
