@@ -506,6 +506,14 @@ h6, .h6 {
   color: #333;
 }
 
+.archive-article h1 {
+  font-size: 15px;
+}
+
+.archive-article {
+  margin: 5px 0;
+}
+
 h3 {
   padding: .25em 0 .25em .5em;
   border-left: 8px solid #80CEDD;

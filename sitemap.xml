@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://8hagi.sakura.ne.jp/about/index.html</loc>
+    
+    <lastmod>2016-10-12T14:22:14.803Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://8hagi.sakura.ne.jp/sblog/2016/10/11/homuraji/</loc>
     
     <lastmod>2016-10-11T14:56:10.132Z</lastmod>
@@ -40,13 +47,6 @@
     <loc>http://8hagi.sakura.ne.jp/sblog/2016/10/02/kankanshiki2015/</loc>
     
     <lastmod>2016-10-10T04:14:21.573Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://8hagi.sakura.ne.jp/about/index.html</loc>
-    
-    <lastmod>2016-10-10T04:08:37.652Z</lastmod>
     
   </url>
   
