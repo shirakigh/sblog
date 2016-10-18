@@ -7,8 +7,24 @@
     </url>
 
     <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/2016/10/18/homuraji-30/</loc>
+        <lastmod>2016-10-18T14:30:37.376Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/2016/10/11/homuraji/</loc>
-        <lastmod>2016-10-16T14:00:14.599Z</lastmod>
+        <lastmod>2016-10-18T14:13:20.138Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/2016/10/13/extra-time/</loc>
+        <lastmod>2016-10-18T14:13:07.658Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -17,14 +33,6 @@
     <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/2016/10/16/magicalmirai-2016/</loc>
         <lastmod>2016-10-16T13:50:46.144Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://8hagi.sakura.ne.jp/sblog/2016/10/13/extra-time/</loc>
-        <lastmod>2016-10-16T10:41:53.177Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
