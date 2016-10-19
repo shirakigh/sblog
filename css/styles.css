@@ -500,7 +500,7 @@ h4, .h4,
 h5, .h5,
 h6, .h6 {
   margin-top: 1em;
-  margin-bottom: 15px;
+  margin-bottom: 1.5em;
   font-family: Arial, 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
   font-weight: bold;
   color: #333;
@@ -523,7 +523,7 @@ h3 {
 }
 
 p {
-  margin: 0 0 20px;
+  margin-bottom: 1.9em;
 }
 
 code {
