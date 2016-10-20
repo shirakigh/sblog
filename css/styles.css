@@ -897,3 +897,9 @@ blockquote {
   font-size: 14px;
 }
 
+.article-comment-link, .twitter-share-button {
+  cursor: pointer;
+  float: right;
+  margin-left: 20px;
+}
+
