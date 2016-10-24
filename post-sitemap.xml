@@ -7,8 +7,16 @@
     </url>
 
     <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/2016/10/18/homuraji-30/</loc>
+        <lastmod>2016-10-24T15:08:54.871Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/2016/10/24/sanma-2016-2/</loc>
-        <lastmod>2016-10-24T14:55:48.161Z</lastmod>
+        <lastmod>2016-10-24T15:08:13.615Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -89,14 +97,6 @@
     <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/2016/10/19/happy-birthday/</loc>
         <lastmod>2016-10-24T12:44:52.324Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://8hagi.sakura.ne.jp/sblog/2016/10/18/homuraji-30/</loc>
-        <lastmod>2016-10-24T12:44:43.708Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
