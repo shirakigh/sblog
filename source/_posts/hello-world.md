@@ -1,38 +1,17 @@
 ---
-title: Hello World
+title: 可愛いを叫ぶためのブログを作りました
+date: 2016-09-26 21:42:10
+categories:
+    - ご挨拶
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+### ご挨拶
 
-## Quick Start
+こんにちは。しらきと言います。
 
-### Create a new post
+ここ最近声優の藤田咲さんの可愛さにどっぷりでして、日々新しい藤田さんに触れては「可愛い！！！！！！！！！」と叫ぶ日々なのですが、心置きなく「可愛い！！！！！！！！！！！」を叫ぶことの出来る場所が欲しくてブログを作成しました。
+Twitterは文字数が厳しくて好きに叫べないのと、リアルタイムに人に読まれてしまうので叫ぶにはちょっと不向きかなと。
+日々あまりの可愛さに叫びたいことは多々あるものの、叫ぶ場所がなくてちょっと消化不良気味だったので、「ならばブログで」と新しく作成してみました。
 
-``` bash
-$ hexo new "My New Post"
-```
+これから日々「可愛い！！！！！！！！！！！！」と思った瞬間を思う様書き連ねていこうと思います。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+よーし、叫ぶぞー！！
