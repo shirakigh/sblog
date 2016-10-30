@@ -40,11 +40,11 @@ h3 {
   padding: .25em 0 .25em .5em;
   border-left: 8px solid #80CEDD;
   font-size: 20px;
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
   margin-top: 1.5em;
 }
 
-p {
+blockquote, ol, ul, p {
   margin-bottom: 1.9em;
 }
 
