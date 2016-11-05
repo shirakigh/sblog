@@ -31,7 +31,14 @@
 
     <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E8%97%A4%E7%94%B0%E5%92%B2/</loc>
-        <lastmod>2016-11-02T14:42:18.790Z</lastmod>
+        <lastmod>2016-11-05T08:21:32.526Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E3%82%86%E3%82%8B%E3%82%86%E3%82%8A/</loc>
+        <lastmod>2016-11-05T08:21:32.526Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
