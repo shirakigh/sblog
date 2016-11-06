@@ -7,8 +7,48 @@
     </url>
 
     <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/2016/11/06/banana-2/</loc>
+        <lastmod>2016-11-06T13:51:29.273Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/2016/10/23/sanma-2016-1/</loc>
+        <lastmod>2016-11-06T13:50:38.612Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>http://8hagi.sakura.ne.jp/sblog/img/20161023_sanma04.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>http://8hagi.sakura.ne.jp/sblog/img/20161023_sanma01.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>http://8hagi.sakura.ne.jp/sblog/img/20161023_sanma02.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>http://8hagi.sakura.ne.jp/sblog/img/20161023_sanma03.jpg</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/2016/11/05/yuruyuri-live-2011/</loc>
-        <lastmod>2016-11-06T08:27:54.053Z</lastmod>
+        <lastmod>2016-11-06T12:48:36.757Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -67,38 +107,6 @@
         <lastmod>2016-10-26T16:05:59.422Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://8hagi.sakura.ne.jp/sblog/2016/10/23/sanma-2016-1/</loc>
-        <lastmod>2016-10-24T14:32:10.563Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-        <image:image>
-
-            <image:loc>http://8hagi.sakura.ne.jp/sblog/img/20161023_sanma04.jpg</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>http://8hagi.sakura.ne.jp/sblog/img/20161023_sanma01.jpg</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>http://8hagi.sakura.ne.jp/sblog/img/20161023_sanma02.jpg</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>http://8hagi.sakura.ne.jp/sblog/img/20161023_sanma03.jpg</image:loc>
-
-        </image:image>
 
     </url>
 
