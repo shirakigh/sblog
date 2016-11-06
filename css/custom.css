@@ -9,9 +9,16 @@
  */
 
 /* Globals */
+@font-face {
+    font-family: minmoji;
+    src: url('https://minmoji.ucda.jp/fontseot/http%3A__8hagi.sakura.ne.jp_');
+    src: local('minmoji'),
+        url('https://minmoji.ucda.jp/fontswoff/http%3A__8hagi.sakura.ne.jp_') format('woff'),
+        url('https://minmoji.ucda.jp/fonts/http%3A__8hagi.sakura.ne.jp_') format('opentype');
+}
 
 body {
-  font-family: Arial, 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+  font-family: minmoji, Arial, 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
   color: #555;
 }
 
@@ -23,7 +30,7 @@ h5, .h5,
 h6, .h6 {
   margin-top: 1em;
   margin-bottom: 1.5em;
-  font-family: Arial, 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+  font-family: minmoji, Arial, 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
   font-weight: bold;
   color: #333;
 }
