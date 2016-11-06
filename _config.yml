@@ -64,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-#theme: freemind
+#theme: tranq
 theme: bootstrap
 
 # Deployment
@@ -86,3 +86,7 @@ disqus_shortname: http-8hagi-sakura-ne-jp-sblog
 
 sitemap:
   path: sitemap.xml
+
+search:
+  path: search.xml
+  field: all
