@@ -7,16 +7,8 @@
     </url>
 
     <url>
-        <loc>http://8hagi.sakura.ne.jp/sblog/2016/11/08/buyo-t/</loc>
-        <lastmod>2016-11-08T14:55:41.778Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://8hagi.sakura.ne.jp/sblog/2016/10/11/homuraji/</loc>
-        <lastmod>2016-11-08T14:30:27.998Z</lastmod>
+        <loc>http://8hagi.sakura.ne.jp/sblog/2016/11/10/banana-2/</loc>
+        <lastmod>2016-11-10T14:15:42.440Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -24,7 +16,7 @@
 
     <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/2016/10/13/extra-time/</loc>
-        <lastmod>2016-11-08T14:30:16.086Z</lastmod>
+        <lastmod>2016-11-09T15:57:28.009Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -32,7 +24,15 @@
 
     <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/2016/10/22/extra-game04/</loc>
-        <lastmod>2016-11-08T14:29:47.805Z</lastmod>
+        <lastmod>2016-11-09T15:57:23.992Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/2016/10/11/homuraji/</loc>
+        <lastmod>2016-11-09T13:42:46.173Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -40,7 +40,15 @@
 
     <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/2016/10/18/homuraji-30/</loc>
-        <lastmod>2016-11-08T14:29:35.445Z</lastmod>
+        <lastmod>2016-11-09T13:42:13.988Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/2016/11/08/buyo-t/</loc>
+        <lastmod>2016-11-09T13:41:10.433Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
