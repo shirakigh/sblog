@@ -8,7 +8,15 @@
 
     <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/2017/02/02/precure-press-conference/</loc>
-        <lastmod>2017-02-01T15:12:23.822Z</lastmod>
+        <lastmod>2017-02-02T15:04:05.953Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/2017/02/03/precure-press-conference-2/</loc>
+        <lastmod>2017-02-02T15:03:57.867Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
