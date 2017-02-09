@@ -2754,18 +2754,6 @@
   
     
     <entry>
-      <title><![CDATA[All-Tags]]></title>
-      <url>http://8hagi.sakura.ne.jp/sblog/all-tags/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Categories]]></title>
-      <url>http://8hagi.sakura.ne.jp/sblog/categories/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[このブログについて]]></title>
       <url>http://8hagi.sakura.ne.jp/sblog/about/index.html</url>
       <content type="html"><![CDATA[<h3 id="このブログについて"><a href="#このブログについて" class="headerlink" title="このブログについて"></a>このブログについて</h3><p>このブログは、しらきが可愛いと思うものを心ゆくまで可愛いと叫ぶためのブログです。<br>ロゴのミッ…ウサギは可愛いものに思いを馳せているしらきのようすです。</p>
@@ -2839,6 +2827,18 @@
 <li>引用する動画は公式で公開されている動画に限ります</li>
 </ul>
 ]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[All-Tags]]></title>
+      <url>http://8hagi.sakura.ne.jp/sblog/all-tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Categories]]></title>
+      <url>http://8hagi.sakura.ne.jp/sblog/categories/index.html</url>
+      <content type="html"></content>
     </entry>
     
     <entry>
