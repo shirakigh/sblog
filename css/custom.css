@@ -36,7 +36,7 @@ h6, .h6 {
 }
 
 .archive-article h1 {
-  font-size: 15px;
+  font-size: 13px;
 }
 
 .archive-article {
@@ -47,7 +47,7 @@ h6, .h6 {
   padding: .25em 0 .25em .5em;
   border-left: 8px solid #80CEDD;
   border-bottom: 1px solid #80CEDD;
-  font-size: 17px;
+  font-size: 16px;
   margin-bottom: 1.5em;
   margin-top: 1.5em;
 }
@@ -55,7 +55,7 @@ h6, .h6 {
 .popular-posts-title h3 {
   /*padding: .25em 0 .25em .5em;*/
   border-left: 0px;
-  font-size: 15px;
+  font-size: 14px;
   margin-bottom: 0.3em;
   margin-top: 0em;
 }
@@ -84,8 +84,12 @@ code {
   border-radius: 30px;
 }
 .btn-primary {
-  background-color: #428bca;
-  border-color: #337ab7;
+  background-color: #ffada0;
+  border-color: #FFA596;
+}
+.btn-primary:hover {
+  background-color: #FF8787;
+  border-color: #FF8F7D;
 }
 .nav-pills>li>a {
   border-radius: 30px;
@@ -186,11 +190,11 @@ code {
 .blog-title {
   margin-top: 30px;
   margin-bottom: 0;
-  font-size: 32px;
+  font-size: 30px;
   font-weight: normal;
 }
 .blog-description {
-  font-size: 20px;
+  font-size: 18px;
   color: #999;
 }
 
@@ -261,7 +265,7 @@ code {
 .article-header h1 {
   margin-top: 0;
   margin-bottom: 5px;
-  font-size: 24px;
+  font-size: 22px;
 }
 .article-header h1 a {
   color: #333;
@@ -440,7 +444,7 @@ code {
  * Blockquote
  */
 blockquote {
-  font-size: 15px;
+  font-size: 14px;
   line-height: 1.7;
 }
 

@@ -2,78 +2,85 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://8hagi.sakura.ne.jp/sblog/tags/HEXO/</loc>
-        <lastmod>2016-10-10T13:36:58.123Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E8%89%A6%E3%81%93%E3%82%8C/</loc>
-        <lastmod>2016-12-25T15:52:15.402Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://8hagi.sakura.ne.jp/sblog/tags/WORKING/</loc>
-        <lastmod>2017-01-01T17:09:16.617Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E7%9F%A2%E4%BD%9C%E7%B4%97%E5%8F%8B%E9%87%8C/</loc>
-        <lastmod>2017-01-23T15:29:49.828Z</lastmod>
+        <lastmod>2017-02-11T08:22:35.564Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E7%9F%A2%E4%BD%9C%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%82%B9/</loc>
-        <lastmod>2017-01-23T15:29:49.828Z</lastmod>
+        <lastmod>2017-02-11T08:22:35.564Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E3%83%9F%E3%82%AF%E3%81%95%E3%82%93/</loc>
-        <lastmod>2017-01-25T15:19:10.355Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E3%82%86%E3%82%8B%E3%82%86%E3%82%8A/</loc>
-        <lastmod>2017-01-30T14:39:50.978Z</lastmod>
+        <loc>http://8hagi.sakura.ne.jp/sblog/tags/WORKING/</loc>
+        <lastmod>2017-02-11T08:25:17.949Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%81%AE%E3%83%97%E3%83%AC%E3%82%A2%E3%83%87%E3%82%B9/</loc>
-        <lastmod>2017-02-02T15:14:55.983Z</lastmod>
+        <lastmod>2017-02-11T08:26:33.853Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2/</loc>
-        <lastmod>2017-02-08T16:16:17.320Z</lastmod>
+        <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E3%82%86%E3%82%8B%E3%82%86%E3%82%8A/</loc>
+        <lastmod>2017-02-11T08:28:59.952Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E8%97%A4%E7%94%B0%E5%92%B2/</loc>
-        <lastmod>2017-02-10T16:54:41.145Z</lastmod>
+        <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E3%83%9F%E3%82%AF%E3%81%95%E3%82%93/</loc>
+        <lastmod>2017-02-11T08:30:39.672Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E3%83%9B%E3%83%A0%E3%83%A9%E3%82%B8/</loc>
-        <lastmod>2017-02-10T16:54:41.145Z</lastmod>
+        <lastmod>2017-02-11T08:31:28.969Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2/</loc>
+        <lastmod>2017-02-11T11:39:41.055Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/tags/HEXO/</loc>
+        <lastmod>2017-02-11T12:47:12.324Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E8%97%A4%E7%94%B0%E5%92%B2/</loc>
+        <lastmod>2017-02-11T14:03:41.114Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E8%89%A6%E3%81%93%E3%82%8C/</loc>
+        <lastmod>2017-02-11T14:03:41.114Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E4%BA%BA%E7%8B%BC/</loc>
+        <lastmod>2017-02-11T14:03:41.114Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
