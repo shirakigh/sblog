@@ -2956,6 +2956,12 @@
     </entry>
     
     <entry>
+      <title><![CDATA[All-Tags]]></title>
+      <url>http://8hagi.sakura.ne.jp/sblog/all-tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[Categories]]></title>
       <url>http://8hagi.sakura.ne.jp/sblog/categories/index.html</url>
       <content type="html"></content>
@@ -2964,12 +2970,6 @@
     <entry>
       <title><![CDATA[Tags]]></title>
       <url>http://8hagi.sakura.ne.jp/sblog/tags/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[All-Tags]]></title>
-      <url>http://8hagi.sakura.ne.jp/sblog/all-tags/index.html</url>
       <content type="html"></content>
     </entry>
     
