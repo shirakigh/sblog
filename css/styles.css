@@ -533,6 +533,7 @@ h6, .h6 {
 .popular-posts-title h3 {
   /*padding: .25em 0 .25em .5em;*/
   border-left: 0px;
+  border-bottom: 0px;
   font-size: 14px;
   line-height: 1.42857143;
   margin-bottom: 0.3em;
@@ -540,8 +541,9 @@ h6, .h6 {
 }
 
 h3 {
-  padding: .25em 0 .25em .5em;
+  padding: .27em 0 .27em .5em;
   border-left: 8px solid #80CEDD;
+  border-bottom: 1px solid #80CEDD;
   font-size: 20px;
   margin-bottom: 1.5em;
   margin-top: 1.5em;
@@ -925,6 +927,7 @@ code {
 blockquote {
   font-size: 14px;
   line-height: 1.7;
+  background-color: #f7f7f7;
 }
 
 .article-comment-link, .twitter-share-button {
