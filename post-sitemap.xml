@@ -7,6 +7,22 @@
     </url>
 
     <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/2017/03/05/precure-alamode-05/</loc>
+        <lastmod>2017-04-11T15:55:20.346Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/2017/03/08/precure-alamode-05-2/</loc>
+        <lastmod>2017-04-11T15:55:09.300Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/2017/04/12/2017-spring/</loc>
         <lastmod>2017-04-11T15:35:10.668Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -145,22 +161,6 @@
     <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/2017/03/11/precure-movie/</loc>
         <lastmod>2017-03-12T12:55:17.212Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://8hagi.sakura.ne.jp/sblog/2017/03/08/precure-alamode-05-2/</loc>
-        <lastmod>2017-03-08T12:15:59.522Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://8hagi.sakura.ne.jp/sblog/2017/03/05/precure-alamode-05/</loc>
-        <lastmod>2017-03-05T14:20:09.487Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
