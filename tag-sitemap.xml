@@ -93,22 +93,22 @@
     </url>
 
     <url>
-        <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E3%83%97%E3%83%AA%E3%82%A2%E3%83%A9%E6%84%9F%E6%83%B3/</loc>
-        <lastmod>2017-05-17T16:14:35.976Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E8%97%A4%E7%94%B0%E5%92%B2/</loc>
-        <lastmod>2017-05-22T17:37:52.083Z</lastmod>
+        <lastmod>2017-05-22T17:40:16.212Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2/</loc>
-        <lastmod>2017-05-22T17:37:52.083Z</lastmod>
+        <lastmod>2017-05-22T17:40:16.212Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/tags/%E3%83%97%E3%83%AA%E3%82%A2%E3%83%A9%E6%84%9F%E6%83%B3/</loc>
+        <lastmod>2017-05-22T17:40:16.212Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
