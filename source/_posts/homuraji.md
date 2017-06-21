@@ -14,7 +14,7 @@ date: 2016-10-11 23:48:16
 むしろ今もTS見てるよーーーーーーーーーーーー！！！！！！！！！
 
 藤田さん可愛いよーーーーーーーーーー！！！！！！！！！( ◜◡◝ )( ◜◡◝ )( ◜◡◝ )
-
+<!-- more -->
 <iframe width="312" height="176" src="http://live.nicovideo.jp/embed/lv277853049" scrolling="no" style="border:solid 1px #d0d0d0; background-color: #f6f6f6;" frameborder="0"><a href="http://live.nicovideo.jp/watch/lv277853049">【第53回】かな＆あいりの文化放送ホームランラジオ！パっとUP [ゲスト：藤田咲さん]</a></iframe>
 
 野球はルールはかろうじて分かるレベルで、選手は有名所の選手ぐらいしか知らないくらいのレベルなんですが、藤田さんが終始本当に楽しそうで、観ているこちらも本当に本当に楽しかったです。

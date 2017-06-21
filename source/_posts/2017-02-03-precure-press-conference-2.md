@@ -11,10 +11,9 @@ date: 2017-02-03 00:03:57
 ---
 
 こんばんは、しらきです。
-
 今日はもう昨日の藤田さんのにこにこ顔を思い出して自分も一日にこにこでした。
 さらに昨日のに加えてもう1枚。とてもとても素敵な笑顔の写真を見つけてそっちも観てはにやにやしてました。
-
+<!-- more -->
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">＜キラキラ☆プリキュアアラモード＞会見の写真を一挙掲載しました。藤田咲さん、福原遥 さん、美山加恋さんら声優陣がずらり！ <a href="https://t.co/16eBoKKlCO">https://t.co/16eBoKKlCO</a>　<a href="https://twitter.com/hashtag/%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2?src=hash">#プリキュア</a> <a href="https://twitter.com/hashtag/precure?src=hash">#precure</a> <a href="https://twitter.com/hashtag/%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2%E3%82%A2%E3%83%A9%E3%83%A2%E3%83%BC%E3%83%89?src=hash">#プリキュアアラモード</a>　<a href="https://twitter.com/hashtag/%E8%97%A4%E7%94%B0%E5%92%B2?src=hash">#藤田咲</a>　<a href="https://twitter.com/hashtag/%E7%A6%8F%E5%8E%9F%E9%81%A5?src=hash">#福原遥</a> <a href="https://twitter.com/hashtag/%E7%BE%8E%E5%B1%B1%E5%8A%A0%E6%81%8B?src=hash">#美山加恋</a> <a href="https://t.co/Jtp7lLsfby">pic.twitter.com/Jtp7lLsfby</a></p>&mdash; mantanotaku (@mantanotaku) <a href="https://twitter.com/mantanotaku/status/826781742434357249">2017年2月1日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

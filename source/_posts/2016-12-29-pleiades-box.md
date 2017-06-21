@@ -8,9 +8,9 @@ categories:
   - アニメ
 date: 2016-12-29 01:10:40
 ---
-
+こんばんは、しらきです。
 放課後のプレアデスのBlu-ray BOX、注文したものの音沙汰がないなーと思っていたら、なんと初回製造分がはけてしまって現在追加製造を交渉中だったんですね…
-
+<!-- more -->
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">BD-BOX、現在初期製造分を大幅に越えるご注文を頂いておりまして、現在在庫集め&amp;追加製造を偉い人に交渉中です <a href="https://twitter.com/hashtag/%E3%83%97%E3%83%AC%E3%82%A2%E3%83%87%E3%82%B9?src=hash">#プレアデス</a> <a href="https://twitter.com/hashtag/sbr_gx?src=hash">#sbr_gx</a> WB司 <a href="https://t.co/m6FVXWyBJ8">pic.twitter.com/m6FVXWyBJ8</a> <a href="https://t.co/CkJyGCVzj6">https://t.co/CkJyGCVzj6</a></p>&mdash; 放課後のプレアデス (@sbr_gx) <a href="https://twitter.com/sbr_gx/status/810138334378926080">2016年12月17日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

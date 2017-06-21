@@ -3,15 +3,15 @@ title: ついに明日
 tags:
   - 藤田咲
   - ホムラジ
-  - 艦これ
 categories:
   - 声優
+  - イベント
 date: 2016-11-23 00:33:50
 ---
 
 ホムラジオールスターゲームですね！！！！！！！！！！！！！
 ブヨT始め物販情報の告知も来てかなり楽しみも高まっております。
-
+<!-- more -->
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="ja" dir="ltr">【ご報告】「ブヨも暇Tシャツ（通称：ブヨT）」が完成致しました。こちらの商品は11月23日に東京・よみうりホールでおこなわれる『ホームランラジオ！オールスターゲーム2016総括版』にて販売されます。 <a href="https://twitter.com/hashtag/HRr?src=hash">#HRr</a><br><br>＜物販スケジュール＞<a href="https://t.co/pSnA9Q1sDR">https://t.co/pSnA9Q1sDR</a> <a href="https://t.co/mrJ4h7TLa7">pic.twitter.com/mrJ4h7TLa7</a></p>&mdash; かな＆あいりの文化放送パっとUP (@Pa_to_up) <a href="https://twitter.com/Pa_to_up/status/800886743280910337">November 22, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

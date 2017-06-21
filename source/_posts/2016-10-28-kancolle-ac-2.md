@@ -9,7 +9,7 @@ date: 2016-10-28 01:07:24
 ---
 
 今回は何の感想書こうかな～と考えていたところ、肝心なものの感想を書いていないことに気が付きました。
-
+<!-- more -->
 > 艦これアーケード　藤田 咲プレイムービー2
 > https://youtu.be/U6d6LiAaEu8
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U6d6LiAaEu8" frameborder="0" allowfullscreen></iframe>

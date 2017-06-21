@@ -7,7 +7,7 @@ title: 可愛いを叫ぶブログ
 subtitle:
 description:
 author: shiraki
-language: default
+language: ja
 timezone: Asia/Tokyo
 
 # URL
@@ -64,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-#theme: tranq
+# theme: tranquilpeak
 theme: bootstrap
 
 # Deployment
@@ -90,3 +90,18 @@ sitemap:
 search:
   path: search.xml
   field: all
+
+popularPosts:
+  weight:                   # (オプション) 表示順位の重み設定
+    tagRelevancy: 1.0       # (オプション) 関連記事を選び出す際に判断される、タグの関連度の重み
+    contentsRelevancy: 1.0  # (オプション) 関連記事を選び出す際に判断される、記事本文の関連度の重み
+  morphologicalAnalysis:
+    # negativeKeywordsList: hexo-rpp-negativewords.txt
+    limit: 300              # (オプション) 一つの記事につきキャッシュするキーワードの上限数
+  googleAnalyticsAPI:
+    # clientId: shiraki
+    # serviceEmail: shiraki@nodejs-149914.iam.gserviceaccount.com     # google analytics APIで取得したメールアドレス
+    # key: /hexo-project-root/path/to/google-services.pem   # google analytics APIで取得したpemファイルのパス
+    # viewId: 12345678                                      # google analyticsで紐付けたビューID
+    dateRange: 90                                         # (オプション) PV数を集計したい期間(日数) デフォルトは30
+    expiresDate: 10

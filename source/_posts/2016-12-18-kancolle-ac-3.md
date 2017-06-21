@@ -8,11 +8,9 @@ categories:
 date: 2016-12-18 22:55:57
 ---
 
-以前書いたプレイ動画2の感想はこちら。
-[艦これアーケード　藤田 咲プレイムービー2](/sblog/2016/10/28/kancolle-ac-2/ "艦これアーケード　藤田 咲プレイムービー2")
-
+こんばんは、しらきです。
 艦これACに陽炎・不知火・黒潮が実装された時の藤田さんのプレイ動画の感想です。
-
+<!-- more -->
 > 艦これアーケード　藤田 咲プレイムービー3
 > https://youtu.be/1MsD1PACA28
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1MsD1PACA28" frameborder="0" allowfullscreen></iframe>
