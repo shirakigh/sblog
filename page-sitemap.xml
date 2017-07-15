@@ -7,6 +7,13 @@
     </url>
     
     <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/search/</loc>
+        <lastmod>2017-07-12T15:13:38.761Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/about/</loc>
         <lastmod>2017-03-12T14:23:37.392Z</lastmod>
         <changefreq>weekly</changefreq>
