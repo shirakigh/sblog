@@ -7,6 +7,22 @@
     </url>
 
     <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/2017/08/10/famitsu-trpg-2/</loc>
+        <lastmod>2017-08-09T15:28:48.473Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/2017/06/14/famitsu-trpg/</loc>
+        <lastmod>2017-08-09T15:27:41.383Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/2017/08/08/precure-alamode-26/</loc>
         <lastmod>2017-08-07T15:33:05.778Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -169,14 +185,6 @@
     <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/2017/06/15/precure-alamode-19/</loc>
         <lastmod>2017-06-14T15:28:12.858Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://8hagi.sakura.ne.jp/sblog/2017/06/14/famitsu-trpg/</loc>
-        <lastmod>2017-06-13T15:32:35.181Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
