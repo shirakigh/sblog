@@ -187,6 +187,27 @@ ga('send', 'pageview');
 </div>
 
 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="/sblog/js/search.js"></script>
+
+   <script type="text/javascript">
+     var search_path = "search.xml";
+	 if (search_path.length == 0) {
+	 	search_path = "search.xml";
+	 }
+	 var path = "/sblog/" + search_path;
+     searchFunc(path, 'local-search-input', 'local-search-result');
+   </script>
+
+<h4 class="local-search-title">Search</h4>
+<div id="site_search">
+ <div class="form-group">
+  <input type="text" id="local-search-input" name="q" results="0" placeholder="&#xF002;search" class="st-search-input st-default-search-input form-control"/>
+ </div>
+<div id="local-search-result"></div>
+</div>
+
+
   
   <div class="sidebar-module">
     <h4>Recents</h4>

@@ -963,3 +963,7 @@ blockquote {
   background: linear-gradient(transparent 0%, #ffff66 0%);
 }
 
+#local-search-input {
+  font-family: FontAwesome;
+}
+

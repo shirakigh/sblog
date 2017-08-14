@@ -38,7 +38,8 @@ var searchFunc = function(path, search_id, content_id) {
             var $resultContent = document.getElementById(content_id);
 
             $input.addEventListener('input', function(){
-                var str='<ul class=\"search-result-list\">';
+                var str='<div class=\"search-result-list\">';
+                // var str='<ul class=\"search-result-list\">';
                 var keywords = this.value.trim().toLowerCase().split(/[\s\-]+/);
                 $resultContent.innerHTML = "";
                 if (this.value.trim().length <= 0) {
@@ -80,7 +81,7 @@ var searchFunc = function(path, search_id, content_id) {
                     }
                     // show search results
                     if (isMatch) {
-                        str += "<li><h4 class='search-result-title'><a href='"+ data_url +"'>"+ data_title +"</a></h4>";
+                        str += "<h4 class='search-result-title'><a href='"+ data_url +"'>"+ data_title +"</a></h4>";
                         var content = data.content.trim().replace(/<[^>]+>/g,"");
                         if (first_occur >= 0) {
                             // cut out 100 characters
@@ -110,10 +111,11 @@ var searchFunc = function(path, search_id, content_id) {
                             // str += "start:" + start + "  end:" + end;
                             str += "<p class=\"search-result\">" + match_content +"...</p>"
                         }
-                        str += "</li>";
+                        // str += "</li>";
                     }
                 });
-                str += "</ul>";
+                // str += "</ul>";
+                str += "</div>";
                 $resultContent.innerHTML = str;
             });
         }
