@@ -473,3 +473,14 @@ blockquote {
   float: right;
   margin-left: 20px;
 }
+
+.local-search-title {
+  margin-top: 0em;
+  margin-bottom: 0.5em;
+}
+.search-result-title {
+  margin-bottom: 0em;
+}
+.search-keyword {
+  background: linear-gradient(transparent 0%, #ffff66 0%);
+}

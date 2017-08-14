@@ -7775,9 +7775,9 @@
             
             <tag> 藤田咲 </tag>
             
-            <tag> ホムラジ </tag>
-            
             <tag> 艦これ </tag>
+            
+            <tag> ホムラジ </tag>
             
         </tags>
         
@@ -9001,5 +9001,110 @@
     </entry>
     
   
+  
+    
+    <entry>
+      <title><![CDATA[All-Tags]]></title>
+      <url>http://8hagi.sakura.ne.jp/sblog/all-tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[このブログについて]]></title>
+      <url>http://8hagi.sakura.ne.jp/sblog/about/index.html</url>
+      <content type="html"><![CDATA[<h3 id="このブログについて"><a href="#このブログについて" class="headerlink" title="このブログについて"></a>このブログについて</h3><p>このブログは、しらきが可愛いと思うものを心ゆくまで可愛いと叫ぶためのブログです。<br>あまりにも藤田咲さんが可愛すぎて叫ぶ場所が欲しくてこのブログを作りました。</p>
+<p>このブログは主に下記の内容で構成される予定です。多分。</p>
+<ul>
+<li>声優の藤田咲さんの可愛いところ好きなところ</li>
+<li>声優さんや関連作品の話題</li>
+<li>イベントの感想など</li>
+</ul>
+<h3 id="好きな声優さん"><a href="#好きな声優さん" class="headerlink" title="好きな声優さん"></a>好きな声優さん</h3><ul>
+<li>藤田咲さん</li>
+<li>佐倉綾音さん</li>
+<li>矢作紗友里さん</li>
+</ul>
+<p>全力で応援しています！！！！！！<br>他にも声が好きな声優さんはたくさんいらっしゃいますが、主に上記の3名を応援しております。</p>
+<p>藤田咲さんのファンになった経緯は下記の記事でざっくりまとめています。</p>
+<blockquote>
+<p><a href="/sblog/2016/09/27/inventory/" title="(2016/9/27) 藤田さんのファンになった軌跡を振り返ってみる">(2016/9/27) 藤田さんのファンになった軌跡を振り返ってみる</a></p>
+</blockquote>
+<p>↓端的に言うとこの姿に殺されました( ◜◡◝ )</p>
+<p><blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">日曜の艦これ観艦式での記念写真がいくつかあったので載せます！赤城さんにうっとりの図… <a href="http://t.co/HzBgc2lSU7" target="_blank" rel="external">pic.twitter.com/HzBgc2lSU7</a></p>&mdash; 上坂すみれ (@Uesakasumire) <a href="https://twitter.com/Uesakasumire/status/631436896904744960" target="_blank" rel="external">2015年8月12日</a></blockquote></p>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h3 id="ブログ執筆環境"><a href="#ブログ執筆環境" class="headerlink" title="ブログ執筆環境"></a>ブログ執筆環境</h3><h4 id="現在の環境"><a href="#現在の環境" class="headerlink" title="現在の環境"></a>現在の環境</h4><table>
+<thead>
+<tr>
+<th style="text-align:left">種類</th>
+<th style="text-align:left">使用ツール</th>
+<th style="text-align:left">備考</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"> サーバ</td>
+<td style="text-align:left">さくらのレンタルサーバ</td>
+<td style="text-align:left">さくら！さくら！</td>
+</tr>
+<tr>
+<td style="text-align:left"> 記法</td>
+<td style="text-align:left">Markdown</td>
+<td style="text-align:left">早い・簡単・キレイ</td>
+</tr>
+<tr>
+<td style="text-align:left"> エディタ</td>
+<td style="text-align:left">Atom</td>
+<td style="text-align:left">使用プラグイン<br>・language-markdown<br>・markdown-writer<br>・markdown-preview-enhanced<br>・platformio-ide-terminal</td>
+</tr>
+<tr>
+<td style="text-align:left"> コンテンツ管理</td>
+<td style="text-align:left">GitHub</td>
+<td style="text-align:left">デプロイまで一発で</td>
+</tr>
+<tr>
+<td style="text-align:left"> サイトジェネレータ</td>
+<td style="text-align:left">HEXO</td>
+<td style="text-align:left">Theme： <a href="https://github.com/cgmartin/hexo-theme-bootstrap-blog" target="_blank" rel="external">Bootstrap</a></td>
+</tr>
+<tr>
+<td style="text-align:left">フォント</td>
+<td style="text-align:left">みんなのフォント</td>
+<td style="text-align:left"><script type="text/javascript" src="https://minmoji.ucda.jp/sealjs/http%3A__8hagi.sakura.ne.jp_" charset="UTF-8"></script></td>
+</tr>
+</tbody>
+</table>
+<h3 id="画像等の引用ポリシー"><a href="#画像等の引用ポリシー" class="headerlink" title="画像等の引用ポリシー"></a>画像等の引用ポリシー</h3><p>当ブログで画像等を掲載する場合は、下記ポリシーに則って掲載します。</p>
+<h4 id="画像の引用"><a href="#画像の引用" class="headerlink" title="画像の引用"></a>画像の引用</h4><p>このブログでは下記に該当する画像を掲載します。</p>
+<ul>
+<li>自分で撮影した写真</li>
+<li>自分でキャプチャした画面や動画のスクリーンショット</li>
+<li>キャプチャしたスクリーンショットを引用掲載する場合、必ず前後に出典元へのリンクを記載します</li>
+</ul>
+<h4 id="動画の埋め込み"><a href="#動画の埋め込み" class="headerlink" title="動画の埋め込み"></a>動画の埋め込み</h4><ul>
+<li>動画を埋め込み引用する場合、該当の配信サイトで規定されている公式の埋め込みタグを使用して埋め込みます</li>
+<li>引用する動画は公式で公開されている動画に限ります</li>
+</ul>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Categories]]></title>
+      <url>http://8hagi.sakura.ne.jp/sblog/categories/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Tags]]></title>
+      <url>http://8hagi.sakura.ne.jp/sblog/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[サイト内検索]]></title>
+      <url>http://8hagi.sakura.ne.jp/sblog/search/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
   
 </search>
