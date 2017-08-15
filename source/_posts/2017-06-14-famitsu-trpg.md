@@ -2,6 +2,7 @@
 title: 【藤田咲・大坪由佳】クトゥルフ神話TRPGで遊ぼう！【ファミ通】
 tags:
   - 藤田咲
+  - TRPG
 categories:
   - 声優
   - ニコ生

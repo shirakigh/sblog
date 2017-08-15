@@ -66,6 +66,7 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 # theme: tranquilpeak
 theme: bootstrap
+# theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -89,19 +90,22 @@ sitemap:
 
 search:
   path: search.xml
-  field: all
+  field: post
 
 popularPosts:
-  weight:                   # (オプション) 表示順位の重み設定
-    tagRelevancy: 1.0       # (オプション) 関連記事を選び出す際に判断される、タグの関連度の重み
-    contentsRelevancy: 1.0  # (オプション) 関連記事を選び出す際に判断される、記事本文の関連度の重み
-  morphologicalAnalysis:
-    # negativeKeywordsList: hexo-rpp-negativewords.txt
-    limit: 300              # (オプション) 一つの記事につきキャッシュするキーワードの上限数
   googleAnalyticsAPI:
-    # clientId: shiraki
-    # serviceEmail: shiraki@nodejs-149914.iam.gserviceaccount.com     # google analytics APIで取得したメールアドレス
-    # key: /hexo-project-root/path/to/google-services.pem   # google analytics APIで取得したpemファイルのパス
-    # viewId: 12345678                                      # google analyticsで紐付けたビューID
-    dateRange: 90                                         # (オプション) PV数を集計したい期間(日数) デフォルトは30
-    expiresDate: 10
+    clientId: shiraki
+    serviceEmail: shiraki@nodejs-149914.iam.gserviceaccount.com
+    key: google-services-private-key.pem
+    viewId: 131184681
+    dateRange: 30
+    pvMeasurementsStartDate: 2015-11-01
+    # rankingSheet: rankingSheet.txt
+  weight:
+    tagRelevancy: 1.0
+    contentsRelevancy: 1.0
+  morphologicalAnalysis:
+    negativeKeywordsList: hexo-rpp-negativewords.txt
+    limit: 300
+    cache:
+      path: hexo-popular-related-posts-ga-cached.json
