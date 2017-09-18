@@ -42,9 +42,9 @@ comments: false
  サーバ | さくらのレンタルサーバ  |  さくら！さくら！
  記法 | Markdown  |  早い・簡単・キレイ
  エディタ | Atom  |  使用プラグイン<br>・language-markdown<br>・markdown-writer<br>・markdown-preview-enhanced<br>・platformio-ide-terminal
- コンテンツ管理 | GitHub | デプロイまで一発で
- サイトジェネレータ | HEXO  | Theme： [Bootstrap](https://github.com/cgmartin/hexo-theme-bootstrap-blog)
-フォント | みんなのフォント |<script type="text/javascript" src="https://minmoji.ucda.jp/sealjs/http%3A__8hagi.sakura.ne.jp_" charset="UTF-8"></script>
+ コンテンツ管理 | GitHub | お世話になってます。
+ サイトジェネレータ | HEXO  | Theme： [Bootstrap](https://github.com/cgmartin/hexo-theme-bootstrap-blog)<br>使用プラグイン：
+フォント(見出しのみ) | みんなの文字 |<script type="text/javascript" src="https://minmoji.ucda.jp/sealjs/http%3A__8hagi.sakura.ne.jp_" charset="UTF-8"></script>
 
 ### 画像等の引用ポリシー
 

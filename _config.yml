@@ -109,3 +109,29 @@ popularPosts:
     limit: 300
     cache:
       path: hexo-popular-related-posts-ga-cached.json
+
+html_minifier:
+  exclude:
+  removeComments: false
+  removeCommentsFromCDATA: false
+  removeCDATASectionsFromCDATA: false
+  collapseWhitespace: true
+  conservativeCollapse: true
+  preserveLineBreaks: true
+  collapseBooleanAttributes: false
+  removeAttributeQuotes: false
+  removeRedundantAttributes: false
+  preventAttributesEscaping: false
+  useShortDoctype: false
+  removeEmptyAttributes: false
+  removeScriptTypeAttributes: false
+  removeStyleLinkTypeAttributes: false
+  removeOptionalTags: false
+  removeIgnored: false
+  removeEmptyElements: false
+  lint: false
+  keepClosingSlash: false
+  caseSensitive: false
+  minifyJS: true
+  minifyCSS: true
+  minifyURLs: false

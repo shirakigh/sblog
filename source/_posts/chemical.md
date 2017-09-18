@@ -5,6 +5,7 @@ tags:
   - 藤田咲
 categories:
   - 声優
+  - テレビ
 ---
 ### NHK高校化学
 

@@ -2,7 +2,6 @@
 title: 生誕祭2016
 categories:
   - 声優
-  - ニコ生
 tags:
   - 藤田咲
   - 艦これ

@@ -5,7 +5,7 @@ tags:
   - TRPG
 categories:
   - 声優
-  - ニコ生
+  - Web動画/ラジオ
 date: 2017-06-14 00:32:35
 ---
 
