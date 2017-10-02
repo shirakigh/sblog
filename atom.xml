@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>可愛いを叫ぶブログ</title>
-  <subtitle>しらきが可愛いと思うものを可愛いと叫ぶブログ</subtitle>
+  
   <link href="/sblog/atom.xml" rel="self"/>
   
   <link href="http://8hagi.sakura.ne.jp/sblog/"/>
@@ -9,7 +9,7 @@
   <id>http://8hagi.sakura.ne.jp/sblog/</id>
   
   <author>
-    <name>shiraki</name>
+    <name>しらき</name>
     
   </author>
   
