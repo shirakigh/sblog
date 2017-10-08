@@ -8,7 +8,15 @@
 
     <url>
         <loc>http://8hagi.sakura.ne.jp/sblog/2017/10/08/sweet-decoration/</loc>
-        <lastmod>2017-10-08T10:02:03.577Z</lastmod>
+        <lastmod>2017-10-08T18:09:25.443Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://8hagi.sakura.ne.jp/sblog/2017/10/09/sweet-decoration-2/</loc>
+        <lastmod>2017-10-08T18:07:47.273Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
