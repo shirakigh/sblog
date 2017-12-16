@@ -23,9 +23,18 @@
     "hexo-related-popular-posts": "^2.0.0",
     "hexo-renderer-ejs": "^0.2.0",
     "hexo-renderer-jade": "^0.2.0",
+    "hexo-renderer-less": "^0.2.0",
     "hexo-renderer-marked": "^0.2.10",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0",
-    "hexo-tag-bootstrap": "0.0.8"
+    "hexo-tag-bootstrap": "0.0.8",
+    "node-prismjs": "^0.1.1"
+  },
+  "devDependencies": {
+    "cssnano": "^3.10.0",
+    "cssnano-cli": "^1.0.5",
+    "uglify-js": "^3.1.2",
+    "uglifycss": "0.0.27",
+    "uglifyjs": "^2.4.11"
   }
 }

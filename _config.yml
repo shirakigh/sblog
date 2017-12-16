@@ -6,14 +6,16 @@
 title: 可愛いを叫ぶブログ
 subtitle:
 description:
-author: shiraki
-language: ja
+author: しらき
+language: en
 timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://8hagi.sakura.ne.jp/sblog
+# url: http://8hagi.sakura.ne.jp
 root: /sblog/
+# root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -39,7 +41,7 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: false
   auto_detect: false
   tab_replace: true
@@ -58,15 +60,15 @@ time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 5
+per_page: 8
 pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: tranquilpeak
-theme: bootstrap
-# theme: icarus
+# theme: bootstrap
+theme: indigo
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
